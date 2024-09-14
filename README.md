@@ -14,10 +14,9 @@
    The APOALB_05* colab file optimises the hyperparameters of n RC with the previously generated datasets
      a) rho in [0,330], b) rho in [166,167].
    APOALB_06* colab files calculate Laypunov exponents for the various tests (N=200,N=400 and intermittence with N=200,400)
-   The APOALB_07* and APOALB_08* colab files generate the graphs used in the paper
-
+   
    colab file APOLB_09* generates the plots of the z variable (intermittence) used in the paper
-   APOALB_10*, APOALB_11* , APOALB_12* colab files generate the figures used in the paper
+   APOALB_10* colab files generate the figures used in the paper
    
    The zipped files dataset_part_1*.zip and dataset_part_2*.zip contain the datasets generated
    to perform the tests (they were compressed because they took up too much space)
